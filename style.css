@@ -1,0 +1,25 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.half-weight {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.half-weight img {
+    width: 80%;
+    padding-right: 5%;
+}
