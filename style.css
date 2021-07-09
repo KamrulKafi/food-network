@@ -15,11 +15,20 @@ section {
 }
 
 .half-weight {
-    width: 50%;
-    padding-left: 2%;
+    width: 40%;
+    padding-left: 15%;
 }
 
 .half-weight img {
     width: 80%;
     padding-right: 5%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 400;
+    border-radius: 100px;
 }
